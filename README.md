@@ -8,7 +8,7 @@ This repository contains various Java concepts and examples. Whether you’re a 
 
 Setup
 Clone the Repository: Start by cloning this repository to your local machine using the following command:
-git clone https://github.com/your-username/your-java-concepts-repo.git
+git clone https://github.com/DineshDeshal/ImportantTopicsofjava.git
 
 Build the Project: If you’re using an Ant-based build system, execute the following command to build the project:
 
